@@ -1,0 +1,33 @@
+.info-repo {
+  display: flex;
+  width: 921px;
+  height: 56px;
+}
+.info-repo__cell {
+  display: flex;
+  align-items: center;
+  width: 182px;
+}
+.title {
+  width: 435px;
+  height: 56px;
+  top: 104px;
+  left: 32px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.preview {
+  width: 416px;
+  height: 66px;
+  margin-top: 479px;
+  margin-left: 512px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 46px;
+  font-weight: 400;
+  line-height: 65.78px;
+  letter-spacing: 0.1700000018px;
+  text-align: center;
+}/*# sourceMappingURL=CategoryCard.css.map */
