@@ -2,12 +2,23 @@
   display: flex;
   width: 921px;
   height: 56px;
+  border-bottom: 1px rgba(0, 0, 0, 0.212) solid;
 }
 .info_repo__cell {
   display: flex;
   align-items: center;
   width: 182px;
 }
+.info_repo__title {
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20.02px;
+  letter-spacing: 0.1700000018px;
+  text-align: left;
+  margin-left: 10px;
+}
+
 .title {
   width: 435px;
   height: 56px;

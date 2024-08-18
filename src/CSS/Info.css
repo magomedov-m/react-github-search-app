@@ -2,9 +2,23 @@
   display: flex;
   width: 921px;
   height: 56px;
-  border: 1px red solid;
+  border-bottom: 1px rgba(0, 0, 0, 0.212) solid;
 }
 .info__cell {
   width: 182px;
-  border: 1px red solid;
+  display: flex;
+  align-items: center;
+}
+.info__title {
+  margin-left: 10px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20.02px;
+  letter-spacing: 0.1700000018px;
+  text-align: left;
+}
+
+.arrow {
+  margin-right: 5px;
 }/*# sourceMappingURL=Info.css.map */
